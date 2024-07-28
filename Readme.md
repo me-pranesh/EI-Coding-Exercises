@@ -48,7 +48,7 @@ Create a simulation for a Mars Rover that can navigate a grid-based terrain. You
 right. You'll need to make sure that it avoids obstacles and stays within the boundaries of the grid. Remember to use pure Object-Oriented
 Programming, design patterns, and avoid using if-else conditional constructs.
 
-### Features
+### Features:
 
 #### Obstacle Detection
  * Stops movement upon encountering obstacles but allows turning commands.
@@ -63,3 +63,37 @@ Programming, design patterns, and avoid using if-else conditional constructs.
 
 
 ## OUTPUT : 
+
+#### Input for Grid:
+
+![grid](./ex2/grid.png)
+
+#### Input for number of obstacle:
+
+![obstacle](./ex2/obst.png)
+
+
+#### Input for obstacle's position:
+
+![obst's coords](./ex2/obst.png)
+
+
+#### Input for Rover's Starting position: 
+
+![rover's coords](./ex2/rover%20co.png)
+
+
+#### Input for Rover's Coommand:
+
+![commands](./ex2/command.png)
+
+
+#### Output when obstacle is encountered:
+
+![with obst](./ex2/withobstacle.png)
+
+
+#### output when obstacle is not encountered:
+
+![without obst](./ex2/withoutobstacle.png)
+
