@@ -50,11 +50,16 @@ Programming, design patterns, and avoid using if-else conditional constructs.
 
 ### Features
 
-* Users can create or join chat rooms.
-* Users can send messages in real-time.
-* Users can view active members in the chat room.
-* Users can view the message history of the chat room.
-
+#### Obstacle Detection
+ * Stops movement upon encountering obstacles but allows turning commands.
+#### Directional Movement
+ * Supports forward movement and turning (left/right) in four cardinal directions.
+#### Grid Constraints
+ * Ensures the rover stays within grid boundaries.
+#### Customizable Inputs
+ * Users can define grid size, obstacles, starting position, and command sequence.
+#### Command Factory
+ * Simplifies adding and managing commands for the rover.
 
 
 ## OUTPUT : 
